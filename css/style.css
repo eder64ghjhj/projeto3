@@ -1,0 +1,46 @@
+/* RESET CSS */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    padding: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(104, 19, 160);
+    background-color: rgb(192, 11, 247);
+}
+
+h1{
+    color: rgb(65, 65, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+.receitadomousse{
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    color: rgb(3, 96, 119);
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    gap: 20px;
+}
+
+.mousse{
+    width: 550px;
+    height: 350px;
+    border: solid, rgb(124, 0, 226), 10px;
+    border-radius: 20px;
+}
+
+footer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(221, 217, 235);
+    background-color: rgb(61, 6, 75);
+    margin-top: 150px;
+    padding: 20px;
+}
